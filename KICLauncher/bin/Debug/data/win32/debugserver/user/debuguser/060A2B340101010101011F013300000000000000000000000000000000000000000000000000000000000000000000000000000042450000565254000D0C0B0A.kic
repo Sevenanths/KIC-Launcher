@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<BackPack>
+<Avatar>
+</Avatar>
+	<Inventory>
+		<Money Amount="0" />
+	</Inventory>
+	<Registry>
+	</Registry>
+</BackPack>

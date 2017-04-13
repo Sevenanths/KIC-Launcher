@@ -1,0 +1,8 @@
+Z:\Projecten\KICLauncher\KICLauncher\bin\Debug\KICLauncher.exe
+Z:\Projecten\KICLauncher\KICLauncher\bin\Debug\KICLauncher.pdb
+Z:\Projecten\KICLauncher\KICLauncher\obj\Debug\KICLauncher.csprojResolveAssemblyReference.cache
+Z:\Projecten\KICLauncher\KICLauncher\obj\Debug\KICLauncher.Main.resources
+Z:\Projecten\KICLauncher\KICLauncher\obj\Debug\KICLauncher.Properties.Resources.resources
+Z:\Projecten\KICLauncher\KICLauncher\obj\Debug\KICLauncher.csproj.GenerateResource.Cache
+Z:\Projecten\KICLauncher\KICLauncher\obj\Debug\KICLauncher.exe
+Z:\Projecten\KICLauncher\KICLauncher\obj\Debug\KICLauncher.pdb
